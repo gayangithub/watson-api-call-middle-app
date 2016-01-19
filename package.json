@@ -1,0 +1,17 @@
+{
+  "name": "natural_language_classifier_test",
+  "version": "1.0.0",
+  "description": "This is for the testing purposes of the IBM Blumixs NLC api",
+  "main": "index.js",
+  "scripts": {
+    "test": "This is a test command"
+  },
+  "author": "Damith Wijewardana",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "fs": "0.0.2",
+    "watson-developer-cloud": "^1.2.0"
+  }
+}
